@@ -1,2 +1,3 @@
-# my-vim-latest
-This is for personal vim config and plug install
+### MyVim config
+- This is my 1st Vim config
+- Based on Bilibili Up TheCW;
